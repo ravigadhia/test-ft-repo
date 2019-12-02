@@ -1,5 +1,5 @@
 {
-  "name": "@bbq-beets/cdobson-demo",
+  "name": "@ravigadhia/test-ft-repo",
   "version": "0.1.11",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bbq-beets/cdobson-demo.git"
+    "url": "git://github.com/ravigadhia/test-ft-repo.git"
   },
-  "author": "Jonathan Clem <jclem@github.com>",
+  "author": "Jonathan Clem <rg@github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bbq-beets/cdobson-demo/issues"
+    "url": "https://github.com/ravigadhia/test-ft-repo/issues"
   },
-  "homepage": "https://github.com/bbq-beets/cdobson-demo#readme",
+  "homepage": "https://github.com/ravigadhia/test-ft-repo#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   }
