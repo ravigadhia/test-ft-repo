@@ -27,6 +27,8 @@ jobs:
         npm install
         npm run build --if-present
         npm test
+        git config user.email "rg@github.com"
+        git config user.name "Ravi Gadhia's Action"
         git add package-lock.json
         git commit -m "auto-generated package-lock.json"
         git push origin master
