@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ravigadhia/test-ft-repo#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "chai": "^3.5.0"
   }
 }
